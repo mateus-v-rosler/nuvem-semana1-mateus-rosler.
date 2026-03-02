@@ -21,7 +21,6 @@ apiEl.textContent = "Erro no fetch: " + err.message;
 }
 
 
-
 });
 
 const out = document.getElementById("out");
