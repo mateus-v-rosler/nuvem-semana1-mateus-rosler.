@@ -6,8 +6,6 @@ out.textContent = typeof obj === "string" ? obj : JSON.stringify(obj, null, 2);
 }
 
 
-
-
 async function httpGetWeather() {
 show("Buscando clima (GET)...");
 try {
