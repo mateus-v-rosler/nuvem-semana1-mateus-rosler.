@@ -9,3 +9,7 @@
 - Ativei GitHub Pages (main / root)
 ## Dificuldades
 - Por enquanto sem problemas
+# Semana 2
+- Teste da API com o GET e POST
+<img src="Captura de tela 2026-03-02 082749"/>
+<img src="Captura de tela 2026-03-02 082732"/>
