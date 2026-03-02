@@ -11,5 +11,6 @@
 - Por enquanto sem problemas
 # Semana 2
 - Teste da API com o GET e POST
+- Nenhum erro com a API
 <img src="Captura de tela 2026-03-02 082749.png"/>
 <img src="Captura de tela 2026-03-02 082732.png"/>
